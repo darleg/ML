@@ -26,12 +26,12 @@ Machine learning (ML) is a fascinating field with several different types. Hereâ
      are trained 
      on labeled data, meaning the model is given the input along with the correct output. 
      Examples include:
-    * Classification: Sorting data into categories (e.g., spam email    detection).
-    * Regression: Predicting a continuous value (e.g., house prices).
+       *  Classification: Sorting data into categories (e.g., spam email    detection).
+       *  Regression: Predicting a continuous value (e.g., house prices).
   2. Unsupervised Learning: Here, the algorithm tries to make sense of the data without any labels. It's like exploring without a map. Examples
-      include:
-        *  Clustering: Grouping similar data points together (e.g., customer segmentation).
-        *  Association: Finding relationships between variables in large datasets (e.g., market basket analysis).
+     include:
+       *  Clustering: Grouping similar data points together (e.g., customer segmentation).
+       *  Association: Finding relationships between variables in large datasets (e.g., market basket analysis).
   3. Semi-supervised Learning: This falls between supervised and unsupervised learning, using a small amount of labeled data and a large 
       amount of unlabeled data to improve learning accuracy.
   4. Reinforcement Learning: Inspired by behavioral psychology, the algorithm learns by interacting with the environment and
